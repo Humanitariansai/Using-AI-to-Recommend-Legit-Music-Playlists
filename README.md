@@ -1,4 +1,4 @@
-# **Humanitarians AI — Using AI to Recommend Legit Music Playlists**
+# **Humanitarians AI/Musinique — Using AI to Recommend Legit Music Playlists**
 
 ### *A Work-in-Progress YouTube Course Built by Volunteers Learning-by-Teaching*
 
